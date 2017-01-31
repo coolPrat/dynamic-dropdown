@@ -1,0 +1,38 @@
+body {
+  background-color: #a2c0ef;
+}
+
+#header {
+  text-align: center;
+  padding: 50px 50px 50px 50px;
+  background-image: url("pizza_1.jpeg");
+	background-repeat: no-repeat;
+     background-position: center center;
+       color: #dcf900;
+    background-size: cover;
+    z-index: 4;
+}
+
+.drop-div {
+    display: block;
+    text-align: center;
+}
+
+.order-div {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.print-order-div {
+    display: block;
+    text-align: center;
+}
+
+.selectDiv {
+  margin-top: -10px;
+  width: 60%;
+  margin-left: 20%;
+  height: 50px;
+}
